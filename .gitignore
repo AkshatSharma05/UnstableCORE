@@ -1,5 +1,5 @@
 build/
 .vscode/
 .devcontainer/
-dependencies.lock/
+dependencies.lock
 sdkconfig.old
